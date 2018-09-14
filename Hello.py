@@ -1,3 +1,7 @@
 print('Hello world')
 
-print('hello i am fine what about you dear and where are you')
+i = 0
+
+while i<10:
+    print('Hamid')
+    i+=1
