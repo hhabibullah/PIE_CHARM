@@ -1,15 +1,2 @@
-colors = ["Red","white","ahmid"]
-
-i =0
-
-while i < len(colors):
-
-    print('when i was %d and my favorite color was %s',i,colors[i])
-    i+=1
-print('hello world')
-print('IVO')
-print('Hamid')
-print('syed')
-print('heloo worlddddddddd')
-
-print('andrius is a good guy and ========================')
+print('hello how u doing dear and where are you going')
+print('where are you going dear and what is the problem')
