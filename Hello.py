@@ -6,6 +6,9 @@ while i<10:
     print('Hamid')
     i+=1
 
-print('H')
-print('I')
-print('P')
+print('i am hamid')
+c = input('what is your name')
+
+ if(c=='hamid')
+    
+    print('heloooo')
